@@ -1,0 +1,20 @@
+{
+    "name": "Shapes_game",
+    "short_name": "Game",
+    "icon": [
+        {
+            "src": "/files/square192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/files/square512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#494949",
+    "theme_color": "#00a3ee"
+}
